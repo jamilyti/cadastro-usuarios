@@ -15,7 +15,6 @@ Aplicação web para cadastro e consulta de usuários, desenvolvida como projeto
 ### Frontend
 - React
 - TypeScript
-- Vite
 - CSS
 
 ## Funcionalidades
