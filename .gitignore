@@ -1,0 +1,24 @@
+﻿# Java e Maven
+**/target/
+**/build/
+*.class
+*.jar
+
+# Node.js e frontend
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Logs e arquivos locais
+*.log
+*.local
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
