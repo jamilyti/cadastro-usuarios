@@ -17,6 +17,12 @@ Aplicação web para cadastro e consulta de usuários, desenvolvida como projeto
 - TypeScript
 - CSS
 
+  
+## Demonstração
+
+![Tela do sistema de cadastro de usuários](screenshots/cadastro-usuarios.png)
+
+
 ## Funcionalidades
 
 - Cadastro de usuários com nome e idade.
